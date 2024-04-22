@@ -1,3 +1,7 @@
+.width-custom {
+    width: 7rem;
+}
+
 .image-align>img {
     width: 60px;
 }
@@ -42,5 +46,4 @@
 .footer-background {
     background-color: #002f34;
     padding: 10px;
-
 }
